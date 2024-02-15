@@ -33,12 +33,12 @@ import version as jpmn_version
 
 
 # TODO change to not be using prerelease version
-# SETUP_CHANGES_URL = "https://aquafina-water-bottle.github.io/jp-mining-note/setupchanges/"
+# SETUP_CHANGES_URL = "https://arbyste.github.io/jp-mining-note/setupchanges/"
 SETUP_CHANGES_URL = (
-    "https://aquafina-water-bottle.github.io/jp-mining-note-prerelease/setupchanges/"
+    "https://arbyste.github.io/jp-mining-note-prerelease/setupchanges/"
 )
 UPDATING_URL = (
-    "https://aquafina-water-bottle.github.io/jp-mining-note-prerelease/updating/"
+    "https://arbyste.github.io/jp-mining-note-prerelease/updating/"
 )
 
 
